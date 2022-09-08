@@ -2,6 +2,8 @@
 
 
 Today, I crerated eperated the multitasked code, which will run with the main code at the same time. Next, I tried one formular, which I use in my code.
+
+
 ![image](https://user-images.githubusercontent.com/105900658/189027095-4bb48d0f-90db-4036-b76d-25ad30471352.png)
 
 Nevertheless, it doesn't work, so I decided to write programmer. After few minutes, I got feedback, which proves not working of the code.
