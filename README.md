@@ -6,8 +6,17 @@ Today, I crerated eperated the multitasked code, which will run with the main co
 
 ![image](https://user-images.githubusercontent.com/105900658/189027095-4bb48d0f-90db-4036-b76d-25ad30471352.png)
 
+
+video:
+https://youtube.com/shorts/0SGPxcvLiVY?feature=share
+https://youtube.com/shorts/ffc7Yf3qRI4?feature=share
+https://youtube.com/shorts/AGtINwK1NPA?feature=share
+
+
 Nevertheless, it doesn't work, so I decided to write programmer. After few minutes, I got feedback, which proves not working of the code.
 ![image](https://user-images.githubusercontent.com/105900658/189028061-3da047ee-f0a1-45fb-8e54-367d2600c435.png)
+
+
 
 
 
