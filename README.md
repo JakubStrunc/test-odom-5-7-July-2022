@@ -7,6 +7,11 @@ Today, I crerated eperated the multitasked code, which will run with the main co
 ![image](https://user-images.githubusercontent.com/105900658/189027095-4bb48d0f-90db-4036-b76d-25ad30471352.png)
 
 
+
+![20220704_151628](https://user-images.githubusercontent.com/105900658/189037559-cfbc93de-200e-4b0d-acac-65a4b4a1771c.jpg)
+
+
+
 video:
 https://youtube.com/shorts/0SGPxcvLiVY?feature=share
 
